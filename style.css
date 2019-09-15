@@ -1,0 +1,23 @@
+h1{
+	color: blue;
+}
+h2{
+	/* <percentage> values */
+	font-size: 120%;
+	color: green;
+}
+ul{
+	font-size: 150%;
+	color: blue;
+}
+ol{
+	font-size: 150%;
+	color: blue;
+}
+body{
+	background-color: silver;
+}
+img{
+	/* image size*/
+	width: 200px;
+}
